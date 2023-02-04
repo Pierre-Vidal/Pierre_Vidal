@@ -33,3 +33,13 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+.card{
+  /* Modify clay.css properties */
+  --clay-background: #f76d6d;
+  --clay-border-radius: 48px;
+
+  /* Extended styles */
+  color: #f1f1f1;
+  padding: 48px;
+}q

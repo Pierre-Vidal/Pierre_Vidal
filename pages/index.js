@@ -13,9 +13,15 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Get started by <code>pages/index.js</code>
         </p>
       </main>
+        <div className="clay card">
+            Fluffy ipsum dolor sit amet consectetur...
+        </div>
+        <div className="clay card">
+            Fluffy ipsum dolor sit amet consectetur...
+        </div>
 
       <Footer />
     </div>
